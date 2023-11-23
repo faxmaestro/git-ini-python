@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog
 import matplotlib.pyplot as plt
 
-'''проверка работы с гитхаб'''
+'''проверка работы с гитхаб this was added from web interface'''
 
 def validate_date(date_str):
     """Проверяет, соответствует ли строка формату dd.mm.yyyy."""
